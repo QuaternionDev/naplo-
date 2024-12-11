@@ -1,6 +1,6 @@
 <p align=center>
   <img src="https://refilc.hu/image/brand/logo.png" width=150>
-  <h1 align=center><b>reFilc</b></h1>
+  <h1 align=center><b>reFilc++</b></h1>
 </p>
 
 #### Nem hivatalos e-napló alkalmazás az e-KRÉTA rendszerhez - tanulóktól, tanulóknak.
@@ -36,6 +36,10 @@ flutter run (--release)
 Az összes (ugyan azon verzióhoz tartozó) contribution meg fog jelenni a release-nél. Kérjük, írd le a Discord nevedet a Description-be, hogy adhassunk rangot.
 
 -------
+
+# A forkot készítette:
+
+**Quaternion**
 
 # Team
 
